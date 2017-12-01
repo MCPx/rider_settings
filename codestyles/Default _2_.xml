@@ -1,0 +1,13 @@
+<code_scheme name="Default (2)">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <codeStyleSettings language="C#">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

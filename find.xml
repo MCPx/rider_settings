@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*(Validator|RuleSe).*</mask>
+      <mask>*(Validator|RuleSet).*</mask>
+      <mask>*Validator|RuleSet).*</mask>
+      <mask>*ValidatorRuleSet).*</mask>
+      <mask>*ValidatoruleSet).*</mask>
+      <mask>*ValidatorleSet).*</mask>
+      <mask>*ValidatoreSet).*</mask>
+      <mask>*ValidatorSet).*</mask>
+      <mask>*Validatoret).*</mask>
+      <mask>*Validatort).*</mask>
+      <mask>*Validator).*</mask>
+      <mask>*Validator.*</mask>
+      <mask>*</mask>
+      <mask>*.csw</mask>
+      <mask>*.csp</mask>
+      <mask>*.cspr</mask>
+      <mask>*.cspro</mask>
+      <mask>*.csproj</mask>
+      <mask>*.co</mask>
+      <mask>*.con</mask>
+      <mask>*.conf</mask>
+      <mask>*.confi</mask>
+      <mask>*.config</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.cd</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.cs*</mask>
+    </recentFileMasks>
+  </component>
+</application>

@@ -1,0 +1,8 @@
+<code_scheme name="Default (1)">
+  <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+  <codeStyleSettings language="C#">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
