@@ -5,6 +5,8 @@
         <LogHighlightingPattern pattern="^\s*e(rror)?\s*$" action="HIGHLIGHT_LINE" fg="-65536" bold="true" stripe="true" />
         <LogHighlightingPattern pattern="^\s*w(arning)?\s*$" action="HIGHLIGHT_LINE" fg="-22016" bold="true" />
         <LogHighlightingPattern pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="-12599489" />
+        <LogHighlightingPattern pattern="^\s*t(race)?\s*$" action="HIGHLIGHT_LINE" fg="-7175308" />
+        <LogHighlightingPattern pattern="^\s*d(ebug)?\s*$" action="HIGHLIGHT_LINE" fg="-4346221" />
       </list>
     </Patterns>
     <parsing>
@@ -14,7 +16,7 @@
         <LogParsingPattern name="TeamCity build log" pattern="^\[([^]]+)](.):\s*(\[[^]]+])?(.*)$" timePattern="HH:mm:ss" linePattern="^\[" timeId="0" severityId="1" categoryId="2" />
       </list>
     </parsing>
-    <settingsVersion>2</settingsVersion>
+    <settingsVersion>3</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
   </component>
 </application>
