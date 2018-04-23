@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="localRegularExpressions" value="true" />
+    <option name="customScope" value="Project 'Horizon.Endpoints'" />
+    <option name="defaultScopeName" value="Project 'Horizon.Endpoints'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*Profile.cs" />
+    <option name="SEARCH_SCOPE" value="Project 'Horizon.Endpoints'" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,8 +15,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.cs</mask>
     <mask>*.ps1</mask>
     <mask>*Profile.cs</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
