@@ -1,8 +1,9 @@
 <scheme name="Visual Gruvbox (Medium Dark)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Meslo LG M DZ for Powerline" />
+  <option name="EDITOR_FONT_NAME" value="Input" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
