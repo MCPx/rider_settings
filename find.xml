@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Fake.LiabilityRegister.Endpoints'" />
-    <option name="defaultScopeName" value="Project 'Fake.LiabilityRegister.Endpoints'" />
+    <option name="customScope" value="Project 'Horizon.Data'" />
+    <option name="defaultScopeName" value="Project 'Horizon.Data'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Fake.LiabilityRegister.Endpoints'" />
+    <option name="SEARCH_SCOPE" value="Project 'Horizon.Data'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
