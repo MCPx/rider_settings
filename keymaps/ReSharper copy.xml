@@ -8,4 +8,7 @@
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt f10" />
+  </action>
 </keymap>
