@@ -17,5 +17,6 @@
     <mask>*.ps1</mask>
     <mask>*Tests.cs</mask>
     <mask>*.QA.cs</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
