@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Horizon.MessagePeeker'" />
+    <option name="defaultScopeName" value="Project 'Horizon.MessagePeeker'" />
+    <option name="SEARCH_SCOPE" value="Project 'Horizon.MessagePeeker'" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,10 +14,10 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Profile.cs</mask>
-    <mask>*.cs</mask>
     <mask>*.ps1</mask>
     <mask>*Tests.cs</mask>
     <mask>*.QA.cs</mask>
     <mask>*.csproj</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
