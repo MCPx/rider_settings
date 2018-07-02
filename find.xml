@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.csproj" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,9 +16,9 @@
     <mask>*.ps1</mask>
     <mask>*Tests.cs</mask>
     <mask>*.QA.cs</mask>
-    <mask>*.csproj</mask>
     <mask>*.cs</mask>
     <mask>*.config</mask>
     <mask>*Profile.cs</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
