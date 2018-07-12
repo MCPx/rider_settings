@@ -1,11 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.csproj" />
+    <option name="customScope" value="Project 'Horizon.Host.Hangfire'" />
+    <option name="defaultScopeName" value="Project 'Horizon.Host.Hangfire'" />
+    <option name="SEARCH_SCOPE" value="Project 'Horizon.Host.Hangfire'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
