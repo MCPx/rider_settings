@@ -1,9 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,9 +22,9 @@
     <mask>*.QA.cs</mask>
     <mask>*.config</mask>
     <mask>*Profile.cs</mask>
-    <mask>*.cs</mask>
     <mask>*Tests.cs</mask>
     <mask>*.Production.cs</mask>
     <mask>*.csproj</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
