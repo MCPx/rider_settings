@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Selected Files And Folders" />
-    <option name="defaultScopeName" value="Selected Files And Folders" />
+    <option name="customScope" value="Project 'Horizon.Tests.Integration'" />
+    <option name="defaultScopeName" value="Project 'Horizon.Tests.Integration'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
+    <option name="SEARCH_SCOPE" value="Project 'Horizon.Tests.Integration'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
