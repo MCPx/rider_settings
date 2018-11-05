@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="Solution" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="!*Tests.cs" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,10 +21,10 @@
     <mask>*Tests.cs</mask>
     <mask>*.Production.cs</mask>
     <mask>*.csproj</mask>
-    <mask>*.cs</mask>
     <mask>*[!Test].cs</mask>
     <mask>*Module.cs</mask>
     <mask>*Configuration*.cs</mask>
     <mask>!*Tests.cs</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
