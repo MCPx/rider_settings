@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Horizon.Web.Api.Owin'" />
-    <option name="defaultScopeName" value="Project 'Horizon.Web.Api.Owin'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Project 'Horizon.Web.Api.Owin'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
