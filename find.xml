@@ -1,32 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.cs" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.ps1</mask>
-    <mask>*.QA.cs</mask>
-    <mask>*.config</mask>
-    <mask>*Profile.cs</mask>
-    <mask>*Tests.cs</mask>
-    <mask>*.Production.cs</mask>
-    <mask>*.csproj</mask>
-    <mask>*[!Test].cs</mask>
-    <mask>*Module.cs</mask>
-    <mask>*Configuration*.cs</mask>
-    <mask>!*Tests.cs</mask>
-    <mask>*.cs</mask>
   </component>
 </application>
