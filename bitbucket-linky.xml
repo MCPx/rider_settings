@@ -5,4 +5,9 @@
       <record scheme="ssh" hostname="bitbucket.org" port="-1" instance="Production" />
     </lookup>
   </component>
+  <component name="BitbucketServerRegistry">
+    <instances />
+    <lookup />
+  </component>
+  <component name="Instance" id="ed22905f-2454-462d-ba2e-b26ee74880b4" version="6.1" />
 </application>
