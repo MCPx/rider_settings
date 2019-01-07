@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Horizon.Data'" />
-    <option name="defaultScopeName" value="Project 'Horizon.Data'" />
-    <option name="SEARCH_SCOPE" value="Project 'Horizon.Data'" />
+    <option name="customScope" value="Project 'Horizon.Endpoints'" />
+    <option name="defaultScopeName" value="Project 'Horizon.Endpoints'" />
+    <option name="SEARCH_SCOPE" value="Project 'Horizon.Endpoints'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
