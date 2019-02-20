@@ -15,5 +15,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>!*Tests.cs</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
