@@ -14,6 +14,5 @@
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="parameter.info.max.visible.rows" value="10" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
