@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.csproj" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +18,7 @@
     <mask>!*Tests.cs</mask>
     <mask>*.ps1</mask>
     <mask>*.cs</mask>
-    <mask>*.csproj</mask>
     <mask>*Test*</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
