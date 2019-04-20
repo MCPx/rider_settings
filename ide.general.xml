@@ -15,5 +15,7 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="rider.edit.and.continue" value="true" />
+    <entry key="ide.win.file.chooser.native" value="true" />
+    <entry key="ide.win.frame.decoration" value="true" />
   </component>
 </application>
